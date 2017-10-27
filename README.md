@@ -1,6 +1,7 @@
 # Gerard
 
-**TODO: Add description**
+Gerard is a discord bot made with cronokirby/alchemy 
+
 
 ## Installation
 
